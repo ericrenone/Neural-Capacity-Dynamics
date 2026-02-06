@@ -9,4 +9,4 @@ This project implements an information-geometric perspective on learning. It com
 
 ## Conclusion
 
-In a controlled convex stochastic regression setting, increased parameter precision and optimizer memory accelerate convergence and reduce variance, while quantization and noise impose fundamental limits on attainable estimator certainty, producing qualitatively distinct optimization geometries despite identical objectives.
+Optimization is not just about the objective function; the resolution of the weights defines the very topology the optimizer "sees."
